@@ -4,7 +4,7 @@
         "password": "xxxxxxxxx",
         "time": ["19:00","22:00"],
         "roomid":"8800",
-        "seatid":["60"],
+        "seatid":["34"],
         "daysofweek": ["Monday" , "Tuesday", "Wednesday", "Thursday", "Friday"]
     }
     ]
